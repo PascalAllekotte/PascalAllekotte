@@ -8,5 +8,7 @@
 PascalAllekotte/PascalAllekotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img width="371" alt="Bildschirmfoto 2024-02-24 um 02 24 43" src="https://github.com/PascalAllekotte/PascalAllekotte/assets/148057928/0bea18da-2a7e-45ad-8a0f-a2d254bca523">
-<img width="371" alt="Bildschirmfoto 2024-02-24 um 02 25 15" src="https://github.com/PascalAllekotte/PascalAllekotte/assets/148057928/464df570-1049-490b-a35f-7fe4d76ce7aa">
+<img width="360" alt="Bildschirmfoto 2024-02-24 um 12 14 05" src="https://github.com/PascalAllekotte/PascalAllekotte/assets/148057928/15a7fcdd-f3e1-471d-bb00-1b4fe5440b04">
+:)
+<img width="358" alt="Bildschirmfoto 2024-02-24 um 12 32 17" src="https://github.com/PascalAllekotte/PascalAllekotte/assets/148057928/a0a1f8c6-792e-4ac1-9176-40b20b1f5634">
+
