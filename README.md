@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PascalAllekotte
 - 👀 App development
-- 🌱 I’m currently learning Kotlin, Swift, AI Art
-- 💞️ I’m looking to collaborate on ...
+- Kotlin, Swift, AI Art
 - 📫 How to reach me ...
 
 <!---
