@@ -1,7 +1,5 @@
-- Hi, I’m @PascalAllekotte
+- Hi, I’m Pase
 - Mobile App Developer for IOS and Android
-  
-
 working on some projects publish them soon
 
 Check out my projects :)
