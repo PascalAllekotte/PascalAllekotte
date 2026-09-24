@@ -30,7 +30,6 @@ My schedule is usually full, but I still make room for projects worth building. 
 
 Email — [pascal.allekotte@web.de](mailto:pascal.allekotte@web.de)
 
-*It started on a PlayStation: I wanted to know how the worlds behind the screen were built. The controller just became a keyboard.*
 
 ---
 
