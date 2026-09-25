@@ -11,7 +11,6 @@ Based in North Rhine-Westphalia, Germany, developing professionally since 2023. 
 - **AI integrations** — language models and translation APIs wired into apps as working features, not demos
 - **Data layer** — Firebase, REST APIs and local persistence behind apps and web front ends
 
-At the moment I'm building a quiz app for a company, together with a macOS companion app their instructors use to manage the content.
 
 Alongside that I run [layfirst.com](https://layfirst.com), my own product for flooring contractors — website and app, currently in testing with companies in the trade.
 
